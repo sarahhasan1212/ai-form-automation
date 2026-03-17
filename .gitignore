@@ -1,0 +1,4 @@
+.env
+*.png
+ai_test_report.csv
+__pycache__/
