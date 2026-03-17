@@ -135,6 +135,5 @@ The automated test suite processed 12 forms with a 91.6% pass rate...
 
 ## 👤 Author
 
-Built by **[Your Name]**  
-📧 your@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Built by Sara Hasan 
+
